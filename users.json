@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hakan",
+    "surname": "Gencoglu",
+    "department": "Yazilim Muhendisligi"
+  },
+  {
+    "id": 2,
+    "name": "Ahmet",
+    "surname": "Kaplan",
+    "department": "Bilgisayar Muhendisligi"
+  },
+  {
+    "id": 3,
+    "name": "Sengul",
+    "surname": "Bayrak Hayta",
+    "department": "Yazilim Muhendisligi"
+  },
+  {
+    "id": 4,
+    "name": "Abdullah",
+    "surname": "Sonmez",
+    "department": "Bilgisayar Muhendisligi"
+  }
+]
